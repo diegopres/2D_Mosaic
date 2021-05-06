@@ -1,2 +1,2 @@
-# DS_Projects
-Data Science Projects
+# 2D_Mosaic
+Algorithm project
